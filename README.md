@@ -5,7 +5,7 @@ BERT stands for Bidirectional Encoder Representations from Transformers - which 
 - Pretrained with Unsupervised Feature-based Approaches which consists of 2 task Mask LM and Next sentence prediction in huge datasets (the BooksCorpus with 800M wordsand English Wikipedia with 2,500M words)
 - Fine-tuning BERT
 
-BERT’s model architec-ture is a multi-layer bidirectional Transformer's encoder which is based on the original paper [Attention is all you need](https://arxiv.org/abs/1706.03762v5).
+BERT’s model architecture is a multi-layer bidirectional Transformer's encoder which is based on the original paper [Attention is all you need](https://arxiv.org/abs/1706.03762v5).
 ## Requirements
 - python3
 - pytorch
